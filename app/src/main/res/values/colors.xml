@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_brand">#173678</color>
+    <color name="blue_dark">#002D6A</color>
+    <color name="blue_variant">#2659C7</color>
+    <color name="blue_light">#73D6E3</color>
+    <color name="magenta">#C94CFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#E7E6E6</color>
+    <color name="gray">#605E5E</color>
+    <color name="gray_dark">#272727</color>
+    <color name="red">#991111</color>
+</resources>

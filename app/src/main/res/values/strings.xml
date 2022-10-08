@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Examen Android</string>
+    <string name="user_name">Usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="register">Registrarse</string>
+
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_login_error_msj">Usuario/contraseña incorrectos.</string>
+    <string name="dialog_register_error_msj">Usuario/contraseña incorrectos.</string>
+    <string name="accept">Aceptar</string>
+
+    <string name="ph_id">[id]</string>
+    <string name="ph_email">[email]</string>
+    <string name="ph_first_name">[first_name]</string>
+    <string name="ph_last_name">[last_name]</string>
+
+    <string name="search">Buscar</string>
+
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+
+    <string name="details">Detalles de usuario</string>
+</resources>

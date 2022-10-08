@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ExamenAndroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_variant</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_dark</item>
+        <item name="colorSecondaryVariant">@color/blue_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="email_credentials">
+        <item name="android:src">@drawable/ic_baseline_email_dark_theme_24</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginVertical">5dp</item>
+    </style>
+    <style name="password_credentials">
+        <item name="android:src">@drawable/ic_baseline_password_dark_theme_24</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginVertical">5dp</item>
+    </style>
+
+    <style name="card">
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:backgroundTint">@color/gray</item>
+    </style>
+
+    <style name="img">
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="toolbar">
+        <item name="android:background">@color/black</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="navMenuHeader">
+        <item name="android:background">@color/gray_dark</item>
+    </style>
+    <style name="navMenu">
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
